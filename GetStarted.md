@@ -34,6 +34,7 @@ To send a file with this request, you have to extract the content of the file wi
 File size are limited to 8mo.
 
 **Parameters:**
+
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
 | documentType | String | Required | The type of document to submit for a transaction. “invoice”. |
