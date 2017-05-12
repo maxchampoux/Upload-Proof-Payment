@@ -1,7 +1,7 @@
 # ATTACH A DOCUMENT TO A PAYMENT #  
 
 We may ask you to provide a proof of transaction under specific terms. You can anticipate our request and send us your invoice or the ID of the beneficiary to avoid any request from us and fully automate your payment process.
-You document must be encoded with a base64 algorithm before to be sent.
+Your document must be encoded with a base64 algorithm before to be sent.
 
 ## Encoding your document ##
 
