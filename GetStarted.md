@@ -53,6 +53,7 @@ POST /payments/OTg3NTg/proofOfTransaction/
 
 ```
 **Return:**
+
 | Field | Type | Description |
 |-------|------|-------------|
 | payment | [Payment Object](../objects/objects.md#payment_object) | An encoded JSON body advising the modification on payment status. |
